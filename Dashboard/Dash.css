@@ -33,6 +33,10 @@ body{
     transition: 0.5s;
     overflow: hidden;
 }
-navigation ul{
-    
+.navigation ul {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
+
