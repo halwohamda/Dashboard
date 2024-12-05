@@ -40,7 +40,7 @@ body{
   width: 100%;
 }
 .navigation ul li{
-    position: absolute;
+    position: relative;
     width: 100%;
     list-style: none;
 }
