@@ -39,4 +39,8 @@ body{
   left: 0;
   width: 100%;
 }
-
+.navigation ul li{
+    position: absolute;
+    width: 100%;
+    list-style: none;
+}
