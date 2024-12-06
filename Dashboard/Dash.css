@@ -65,7 +65,7 @@ body{
     
 }
 
-.navigation ul li .icon{
+.navigation ul li a .icon{
     position: relative;
     display: block;
     min-width: 60px;
