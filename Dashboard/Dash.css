@@ -90,3 +90,9 @@ body{
     white-space: nowrap;
 }
 
+.navigation ul li:hover a::before{
+    content: "";
+    position: absolute;
+    right: 0;
+    top: -50px;
+}
