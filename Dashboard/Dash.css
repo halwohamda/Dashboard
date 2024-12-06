@@ -45,6 +45,7 @@ body{
     width: 100%;
     list-style: none;
     border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
 }
 .navigation ul li:nth-child(1){
   margin-bottom: 40px;
